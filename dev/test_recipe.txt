@@ -1,0 +1,73 @@
+Test Recipes
+
+Done:
+1a (Baseline):
+2.1   g | silicone carbide coarse
+10.1  g | silicone carbide fine
+8.2   g | graphite powder
+31    g | refractory concrete
+9.5   g | silicon dioxide
+60.9  g | Dry Total
+
+65    g | cold water
+125.9 g | Total
+
+
+TODO:
+1b (Add Frit):
+2.1       g | silicone carbide coarse
+8.1       g | silicone carbide fine
+6.2       g | graphite powder
+31        g | refractory concrete
+4         g | frit
+9.5       g | silicon dioxide
+60.9      g | Dry Total
+
+65        g | cold water
+125.9     g | Total
+
+TODO:
+1c (More Graphite):
+8       g | silicone carbide coarse
+16      g | silicone carbide fine
+16      g | graphite powder
+16      g | refractory concrete
+8       g | frit
+8       g | silicon dioxide
+72      g | Dry Total
+
+65      g | cold water
+137     g | Total
+
+
+TODO:
+1d (Plaster):
+10      g | silicone carbide coarse
+5       g | silicone carbide fine
+15      g | graphite powder
+6       g | frit
+6       g | silicon dioxide
+15      g | refractory concrete
+15		g | plaster of parise
+72      g | Dry Total
+
+65      g | cold water
+137     g | Total
+
+
+
+
+
+
+Test Ingredients Available:
+Plaster
+Borax
+Frit Powder
+Graphite Po243wder
+Refractory Concrete
+Refractory Mortar
+Refractory Coating
+Silicone Dioxide
+Silicone Graphite Coarse
+Silicone Graphite Fine
+Water

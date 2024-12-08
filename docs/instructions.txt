@@ -1,0 +1,118 @@
+0% Instructions:
+
+
+Needed Tools :
+- 3D Printer
+	<TODO:Add images>
+	<TODO:Add links>
+- CNC or Mill and or Drill press
+	- aluminum cutting bits 
+	- work clamp/hold fixtures
+	<TODO: Add images>
+	<TODO:Add links>
+
+- Propane Furnace, capable of melting aluminum
+	- crucible (20 kg)
+	- tongs
+	- fire bricks
+	<TODO: Add images>
+	<TODO:Add links>
+
+- hack saw or metal cutting tool
+
+Nice To Have Tools:
+	- vaccum chamber
+	- paint shaker
+	- dehydrator
+	- workshop oven
+
+
+
+Ingredients:
+
+Mold Frame:
+- A couple spools of PLA
+
+Mold Ingredients:
+
+- silicone graphite, rock polishing
+- graphite
+- firebrick clay
+- silica oxide
+
+Casting:
+- Aluminum (casting aluminum is preferred, extruded aluminum can be used but quality suffers)
+- powdered borax
+- 
+
+
+
+Steps:
+
+1) Print The Mold:
+ 1a Print The left and right molds (TODO: filenames)
+ 2b Seal the mold so it's mostly water tight
+ 3c Spray mold with "mold release"
+
+
+
+2) Mold Mixture:
+ 2a - In a 5 gallon bucket, add (TODO: a gallon) of (TODO: cold) tap water
+ 2b - While mixing, add in :
+ 	50% graphite flake
+ 	25% fireclay (available at pottery store)
+ 	10% silica dixode
+ 	10% silicone carbide
+ 	5% aluminum magnesium powder
+ 2c - Add water do make a damp but not liquid mixture, yogurt consistency
+
+3) Make Mold
+ 3a - With a cheap paint brush, coat the investment (gravy boat) in both halves with a layer of the mold mixture. Make sure to cover all the areas and avoid air bubbles. Let this sit until it starts to dry.
+
+ 3b - Pour into each mold slowly, shake the mold or use mechanical shaker.
+ 3c - You don't need to fill each mold completely, 10mm from the top is fine. If filled, use a flat edge to level if needed. Make sure to set on level surface.
+ 3d - Shake the forms vigoursly to help remove air bubbles. If you have a vaccum chamber, now would be a good time to use it. 
+
+4) Cure
+ 4a - Let the molds sit for 24 hours. Keep in dry warm area. Make sure to keep level.
+ 
+ 4b - At 150C, using a dehydrator or oven, bake the mold for 3 days. Do not increase heat to speed up, the plastic will melt before we want and possibly make a mess.
+
+ 4c - Once the mold is mostly cured, the plastic can be melted off. You can use a heat gun, hair dryer, propane torch, etc. You'll want to avoid direct high temperature at any one spot, the mold is not fully cured yet and make crack if exposed to high temperature. 
+
+ 4d - Once the frame and the bottom flat layer are mostly removed, place mold in baking pan on a fire brick, heat oven to 350F and bake for a day or so. Allow to cool and remove any melted off plastic.
+
+ 4e - Bake in oven on cookie sheet or pan at 500F for 8 hours.
+
+5) Fire the mold:
+
+ 5a - Sprinkle borax all over the top of the molds.
+ 5b - Using propance furnace, heat to 2000f and fire the mold for 30 minutes or so.
+ 5c - Make sure the borax melts and using tongs, ensures the melted borax coats the mold.
+ 5d - If not casting the mold right away, allow to cool in dry area.
+
+6) Casting
+ 6a. Heat propane furnace 
+ 6b. Place each mold on firebricks, make sure there's room to allow molten aluminum to overflow or spill.
+
+ 6c. Add (TODO: x) grams of aluminum to liquid. Once liquid, skim slag and add more aluminum as needed.
+
+ 6d. Skim remaining slag
+ 6e. Remove crucible, pour the first mold. Make sure the vents fill up, they are used to prevent shrinkage while contracting during cooling.
+
+ 6f. If aluminum begins to cool, place back in furnace before pouring second mold.
+ 6g. Allow molds to cool, you can dunk into water, the work pieces should fall out.
+
+optional normalizing:
+ 6h. Turn down furnace to 2000f, and place work pieces inside for 5 minutes. Then dunk in water, turn down furnace to 1800f, place in furnace for 4 minutes. keep repeating until as low as possible.
+
+
+
+
+7) Post cast cleanup
+ 7a. cut off vents and extras
+
+
+
+
+
